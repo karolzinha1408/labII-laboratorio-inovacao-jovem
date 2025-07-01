@@ -40,16 +40,16 @@ Proporcionar um espaço em que os jovens possam experimentar, errar, aprender e 
 
 ## **Como executar o projeto:** 💻
 
-1°.  Você irá abrir na tela de login, e irá botar seu nome e sua senha. Caso você não tenha cadastro, irá apertar a opção
+1. Você irá abrir na tela de login, e irá botar seu nome e sua senha. Caso você não tenha cadastro, irá apertar a opção
 de se cadastrar e fará seu cadastro;
-2°.  Depois de fazer login ou se cadastrar, você será direcionado para a página principal. Nessa página você terá mais informações sobre o projeto, e terá acesso as páginas: Alunos, Categorias, Mentorias, Avaliadores, Projetos, Usuários e Fale Conosco.
-3°. Na página Alunos você irá cadastrar o aluno;
-4°. Na página Categorias você irá cadastrar uma categoria;
-5°. A página Mentorias é usada para cadastrar um mentor;
-6°. A página Avaliadores é utilizada para o cadastro do avaliador; 
-7°. Na página Projetos você irá cadastrar o seu projeto;
-8°. A página Usuários é usada para identificar o tipo de usuário;
-9°. Na página Fale Conosco, você poderá mandar uma mensagem sobre alguma ideia ou pedir ajuda. 
+2.  Depois de fazer login ou se cadastrar, você será direcionado para a página principal. Nessa página você terá mais informações sobre o projeto, e terá acesso as páginas: Alunos, Categorias, Mentorias, Avaliadores, Projetos, Usuários e Fale Conosco.
+3. Na página Alunos você irá cadastrar o aluno;
+4. Na página Categorias você irá cadastrar uma categoria;
+5. A página Mentorias é usada para cadastrar um mentor;
+6. A página Avaliadores é utilizada para o cadastro do avaliador; 
+7. Na página Projetos você irá cadastrar o seu projeto;
+8. A página Usuários é usada para identificar o tipo de usuário;
+9. Na página Fale Conosco, você poderá mandar uma mensagem sobre alguma ideia ou pedir ajuda. 
 
 ## **Funcionalidades Principais:** 💻
 
@@ -63,10 +63,10 @@ de se cadastrar e fará seu cadastro;
 
 ## **Autores e Colaboradores:** 💻
 
-Karoline Vitória
-Matheus Melo
-Pablo Eduardo
-Maria Vitória Tomaz
-Lívia Pereira 
+Karoline Vitória, 
+Matheus Melo, 
+Pablo Eduardo, 
+Maria Vitória Tomaz, 
+Lívia Pereira. 
 
-! [Descrição da imagem] (tecnologia.jpg)
+![Descrição da imagem](https://www.itexperts.com.br/wp-content/uploads/2023/08/02234057/digitalizacao.jpg)
